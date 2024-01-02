@@ -3,5 +3,5 @@
 2. naver의 웹 페이지에서 HTML과 CSS 살펴본 후 CSS 파일 삭제해보기
 3. 브런치 복사 방지를 Disable JS로 풀어보기
 4. 웹 페이지 DOM 조작하여 cover_title 변경하기
-[실습 노션 링트](https://www.notion.so/1-19ddba5fc4bc4d2da95641b37f4c9cd2_
+[실습 노션 링크](https://www.notion.so/1-19ddba5fc4bc4d2da95641b37f4c9cd2)
 ----
