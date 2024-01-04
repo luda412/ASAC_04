@@ -5,5 +5,5 @@
 4. 웹 페이지 DOM 조작하여 cover_title 변경
 5. 크롬 개발자 도구로 웹 페이지 LightHouse 성능 확인
 
-[실습 노션 링크](https://www.notion.so/1-19ddba5fc4bc4d2da95641b37f4c9cd2)
+[실습 노션](https://www.notion.so/1-19ddba5fc4bc4d2da95641b37f4c9cd2), [velog](https://velog.io/@luda412/01.-웹-구성과-흐름)
 ----
