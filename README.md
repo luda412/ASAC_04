@@ -1,4 +1,4 @@
-# 1주차: 크롬 개발자 도구를 통해 CSS, HTML(DOM), JS 영향 확인 및 디버깅
+# 크롬 개발자 도구를 통해 CSS, HTML(DOM), JS 영향 확인 및 디버깅
 1. HTML과 CSS 작성을 통해 Cascading의 의미 파악
 2. naver의 웹 페이지에서 HTML과 CSS 살펴본 후 CSS 파일 삭제
 3. 웹 페이지 JS 영향 확인, Disable JS 실행
