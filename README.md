@@ -12,5 +12,5 @@
 1. 크롬 개발자 모드로 웹 페이지의 Status code 분석
 2. 웹 페이지의 HTTP Resources를 CDN 캐싱으로 가져오는 예시 분석
 
-[실습 노션](https://www.notion.so/2-status-code-CDN-13177547af084aa69701f526dd7bb8fb#696e99fda62a4802816076f73de6dcfb), [velog](https://velog.io/@luda412/02.-웹-성능-개선-및-부하-완화)
+[실습 노션](https://www.notion.so/2-status-code-CDN-13177547af084aa69701f526dd7bb8fb), [velog](https://velog.io/@luda412/02.-웹-성능-개선-및-부하-완화)
 ----
