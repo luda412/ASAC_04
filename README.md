@@ -22,4 +22,6 @@
 4. First-party Cookie & Third-party Cookie (GoogleAnalytics)
 
 [실습 노션](https://www.notion.so/3-Set-Cookie-Header-MaxAge-Expires-Session-7f1bce871f3646bdac6abffd778c68dd), [velog_web_storage](https://velog.io/@luda412/03.-웹-저장소), [velog_web_security](https://velog.io/@luda412/웹-보안)
+----
+
 
