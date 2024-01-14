@@ -14,3 +14,12 @@
 
 [실습 노션](https://www.notion.so/2-status-code-CDN-13177547af084aa69701f526dd7bb8fb), [velog](https://velog.io/@luda412/02.-웹-성능-개선-및-부하-완화)
 ----
+
+# 03_week Set-Cookie Header 분석, 퍼스트 파티 쿠키와 서드 파티 쿠키 분석
+1. 크롬 개발자 모드로 Set-Cookie Header 분석 (Expires & Max-Age 확인, Session으로 담긴 값 분석)
+2. Local Stroage와 Session Storage
+3. HttpOnly 활성화
+4. First-party Cookie & Third-party Cookie (GoogleAnalytics)
+
+[실습 노션](https://www.notion.so/3-Set-Cookie-Header-MaxAge-Expires-Session-7f1bce871f3646bdac6abffd778c68dd), [velog_web_storage](https://velog.io/@luda412/03.-웹-저장소), [velog_web_security](https://velog.io/@luda412/웹-보안)
+
