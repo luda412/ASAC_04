@@ -24,4 +24,12 @@
 [실습 노션](https://www.notion.so/3-Set-Cookie-Header-MaxAge-Expires-Session-7f1bce871f3646bdac6abffd778c68dd), [velog_web_storage](https://velog.io/@luda412/03.-웹-저장소), [velog_web_security](https://velog.io/@luda412/웹-보안)
 ----
 
+# 04_week Git Conflict 및 파일 조작 시나리오
+1. Git 시작 및 First Commit
+2. Amend & Rebase
+3. Conflict 해결
+
+[실습 노션](https://www.notion.so/4-Git-Conflict-05ee99ce2753444c9df0a12d8b331fd0), [velog_버전_관리를_위한_통합](https://velog.io/@luda412/04.-버전-관리를-위한-통합과-배포)
+
+
 
