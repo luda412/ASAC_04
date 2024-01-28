@@ -32,5 +32,15 @@
 [실습 노션](https://www.notion.so/4-Git-Conflict-05ee99ce2753444c9df0a12d8b331fd0), [velog_버전_관리를_위한_통합](https://velog.io/@luda412/04.-버전-관리를-위한-통합과-배포)
 ----
 
+# 05_week JS 문법 및 엔진 작동 원리
+1. 함수 정의 및 사용 (Declaration, Expression, Hoisting, Arrow function)
+2. 함수 전달 형태 (값 반환 형태)
+3. ES6+ 문법 객체 (Destructure, Property Initializer Shorthand, Computed Named Property)
+4. ES6+ 문법 함수 (Spread Syntax, Rest Parameter, Default Parameter, Currying, Trailing Comma)
+
+[실습 노션](https://www.notion.so/5-Java-Script-23a0e2dc4b7a439981d8efc1bcdee1be), [velog_Java Script Engine & Function](https://velog.io/@luda412/Java-Script-기본-문법)
+---
+
+
 
 
