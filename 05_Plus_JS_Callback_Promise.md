@@ -1,6 +1,6 @@
 # 01. Callback
 다른 함수의 <span style = 'background-color:#fff5b1'>파라미터</span>로 전달되는 함수를 <span style = 'background-color:#fff5b1'>Callback</span> 함수라고 한다. 
-다시, 함수를 파라미터로 넘겨, 파라미터를 받은 함수에게 <span style = 'background-color:#fff5b1'><strong>실행권</strong>을 넘기는 함수</span>를 Callback 이라고 한다.
+다시, 함수를 파라미터로 넘겨, 파라미터를 받은 함수에 <span style = 'background-color:#fff5b1'><strong>실행권</strong>을 넘기는 함수</span>를 Callback 이라고 한다.
 
 Callback 자체로는 비동기 함수와 관계가 없으나, Callback이 많이 사용되는 곳은 비동기이기 때문에, 비동기 함수에 실행권을 넘기기 위해 callback을 많이 사용한다.
 
