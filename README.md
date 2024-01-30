@@ -41,6 +41,20 @@
 [실습 노션](https://www.notion.so/5-Java-Script-23a0e2dc4b7a439981d8efc1bcdee1be), [velog_Java Script Engine & Function](https://velog.io/@luda412/Java-Script-기본-문법)
 ---
 
+# 05_week_Plus JS Callback 및 Promise
+1. Includes
+2. Spread Syntax
+3. 예외 처리
+4. For of / in
+5. Nullish Coalescing
+6. Callback (Callback Hell)
+7. Promise (사용시 주의 사항, Then & Catch, Async & Await)
+
+[실습 노션] (https://www.notion.so/5-JS-ES6-90377060793948b4afd21ce1c57c291b), [velog_Callback & Promise] (https://velog.io/@luda412/06.-CallBack-And-Promise)
+---
+
+
+
 
 
 
