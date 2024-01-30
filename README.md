@@ -50,7 +50,7 @@
 6. Callback (Callback Hell)
 7. Promise (사용시 주의 사항, Then & Catch, Async & Await)
 
-[실습 노션] (https://www.notion.so/5-JS-ES6-90377060793948b4afd21ce1c57c291b), [velog_Callback & Promise] (https://velog.io/@luda412/06.-CallBack-And-Promise)
+[실습 노션](https://www.notion.so/5-JS-ES6-90377060793948b4afd21ce1c57c291b), [velog_Callback & Promise](https://velog.io/@luda412/06.-CallBack-And-Promise)
 ---
 
 
