@@ -1,31 +1,40 @@
 ## 01_week 크롬 개발자 도구를 통해 CSS, HTML(DOM), JS 영향 확인 및 디버깅
-- [실습 노션 : 매우 간단하게 설명가능한 타이틀](https://www.notion.so/1-19ddba5fc4bc4d2da95641b37f4c9cd2)
+- [실습 노션 : 웹 페이지 구조 파악](https://www.notion.so/1-19ddba5fc4bc4d2da95641b37f4c9cd2)
   - HTML과 CSS 작성을 통해 Cascading의 의미 파악
   - naver의 웹 페이지에서 HTML과 CSS 살펴본 후 CSS 파일 삭제
   - 웹 페이지 JS 영향 확인, Disable JS 실행
   - 웹 페이지 DOM 조작하여 cover_title 변경
   - 크롬 개발자 도구로 웹 페이지 LightHouse 성능 확인
-- [velog](https://velog.io/@luda412/01.-웹-구성과-흐름)
-  - ㅇㅇㅇ
-  - ㅇㅇㅇ
-
+- [velog: 웹 구성과 흐름](https://velog.io/@luda412/01.-웹-구성과-흐름)
+  - Web 개요
+  - Internet과 Intranet, DNS
+  - SEO 전략
+  - CGI
+  - SSG, SSR, CSR
 
 ----
 
 ## 02_week 크롬 개발자 도구를 통해 status code 분석, CDN 캐싱 분석
-1. 크롬 개발자 모드로 웹 페이지의 Status code 분석
-2. 웹 페이지의 HTTP Resources를 CDN 캐싱으로 가져오는 예시 분석
+- [실습 노션: 웹 페이지 별 캐시 사용 예시](https://www.notion.so/2-status-code-CDN-13177547af084aa69701f526dd7bb8fb)
+  - 크롬 개발자 모드로 웹 페이지의 Status code 분석
+  - 웹 페이지의 HTTP Resources를 CDN 캐싱으로 가져오는 예시 분석
+- [velog: 웹 성능 개선 및 부하 완화](https://velog.io/@luda412/02.-웹-성능-개선-및-부하-완화)
+  - HTTP Cache
+  - Server Cache
+  - Proxy와 CDN
+  - 결과 반환 시점
+  - Header Settins
 
-[실습 노션](https://www.notion.so/2-status-code-CDN-13177547af084aa69701f526dd7bb8fb), [velog](https://velog.io/@luda412/02.-웹-성능-개선-및-부하-완화)
 ----
 
 ## 03_week Set-Cookie Header 분석, 퍼스트 파티 쿠키와 서드 파티 쿠키 분석
-1. 크롬 개발자 모드로 Set-Cookie Header 분석 (Expires & Max-Age 확인, Session으로 담긴 값 분석)
-2. Local Stroage와 Session Storage
-3. HttpOnly 활성화
-4. First-party Cookie & Third-party Cookie (GoogleAnalytics)
+- [실습 노션: ](https://www.notion.so/3-Set-Cookie-Header-MaxAge-Expires-Session-7f1bce871f3646bdac6abffd778c68dd)
+  - 크롬 개발자 모드로 Set-Cookie Header 분석 (Expires & Max-Age 확인, Session으로 담긴 값 분석)
+  - Local Stroage와 Session Storage
+  - HttpOnly 활성화
+  - First-party Cookie & Third-party Cookie (GoogleAnalytics)
 
-[실습 노션](https://www.notion.so/3-Set-Cookie-Header-MaxAge-Expires-Session-7f1bce871f3646bdac6abffd778c68dd), [velog_web_storage](https://velog.io/@luda412/03.-웹-저장소), [velog_web_security](https://velog.io/@luda412/웹-보안)
+[velog_web_storage](https://velog.io/@luda412/03.-웹-저장소), [velog_web_security](https://velog.io/@luda412/웹-보안)
 ----
 
 # 04_week Git Conflict 및 파일 조작 시나리오
