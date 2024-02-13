@@ -1,5 +1,5 @@
 ## 01_week 크롬 개발자 도구를 통해 CSS, HTML(DOM), JS 영향 확인 및 디버깅
-- [실습 노션 : 웹 페이지 구조 파악](https://www.notion.so/1-19ddba5fc4bc4d2da95641b37f4c9cd2)
+- [실습 노션: 웹 페이지 구조 파악](https://www.notion.so/1-19ddba5fc4bc4d2da95641b37f4c9cd2)
   - HTML과 CSS 작성을 통해 Cascading의 의미 파악
   - naver의 웹 페이지에서 HTML과 CSS 살펴본 후 CSS 파일 삭제
   - 웹 페이지 JS 영향 확인, Disable JS 실행
@@ -35,8 +35,16 @@
   - First-party Cookie & Third-party Cookie (GoogleAnalytics)
 
 - [velog: web_storage](https://velog.io/@luda412/03.-웹-저장소)
+  - Stateless VS Stateful
+  - Cookie
+  - Seesion
+  - Storage
 
-- [velog_web_security](https://velog.io/@luda412/웹-보안)
+- [velog: web_security](https://velog.io/@luda412/웹-보안)
+  - HTTPS
+  - Same-site
+  - CSRF
+  - CORS & SOP 
 
 ----
 
@@ -46,7 +54,7 @@
   - Amend & Rebase
   - Conflict 해결
 
-- [velog:버전_관리를_위한_통합](https://velog.io/@luda412/04.-버전-관리를-위한-통합과-배포)
+- [velog: 버전_관리를_위한_통합](https://velog.io/@luda412/04.-버전-관리를-위한-통합과-배포)
 ----
 
 ## 05_week JS 문법 및 엔진 작동 원리
