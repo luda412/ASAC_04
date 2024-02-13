@@ -55,6 +55,10 @@
   - Conflict 해결
 
 - [velog: 버전_관리를_위한_통합](https://velog.io/@luda412/04.-버전-관리를-위한-통합과-배포)
+  - Local VS Remote
+  - Branch
+  - Working Directory
+  - 파일 조작 시나리오
 ----
 
 ## 05_week JS 문법 및 엔진 작동 원리
@@ -65,6 +69,7 @@
   - ES6+ 문법 함수 (Spread Syntax, Rest Parameter, Default Parameter, Currying, Trailing Comma)
 
 - [velog: Java Script Engine & Function](https://velog.io/@luda412/Java-Script-기본-문법)
+  - 
 ---
 
 ## 05_week_Plus JS Callback 및 Promise
