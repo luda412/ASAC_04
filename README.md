@@ -28,46 +28,49 @@
 ----
 
 ## 03_week Set-Cookie Header 분석, 퍼스트 파티 쿠키와 서드 파티 쿠키 분석
-- [실습 노션: ](https://www.notion.so/3-Set-Cookie-Header-MaxAge-Expires-Session-7f1bce871f3646bdac6abffd778c68dd)
+- [실습 노션: 웹 브라우저 Cookie](https://www.notion.so/3-Set-Cookie-Header-MaxAge-Expires-Session-7f1bce871f3646bdac6abffd778c68dd)
   - 크롬 개발자 모드로 Set-Cookie Header 분석 (Expires & Max-Age 확인, Session으로 담긴 값 분석)
   - Local Stroage와 Session Storage
   - HttpOnly 활성화
   - First-party Cookie & Third-party Cookie (GoogleAnalytics)
 
-[velog_web_storage](https://velog.io/@luda412/03.-웹-저장소), [velog_web_security](https://velog.io/@luda412/웹-보안)
+- [velog: web_storage](https://velog.io/@luda412/03.-웹-저장소)
+
+- [velog_web_security](https://velog.io/@luda412/웹-보안)
+
 ----
 
-# 04_week Git Conflict 및 파일 조작 시나리오
-1. Git 시작 및 First Commit
-2. Amend & Rebase
-3. Conflict 해결
+## 04_week Git Conflict 및 파일 조작 시나리오
+- [실습 노션: Local repository](https://www.notion.so/4-Git-Conflict-05ee99ce2753444c9df0a12d8b331fd0)
+  - Git 시작 및 First Commit
+  - Amend & Rebase
+  - Conflict 해결
 
-[실습 노션](https://www.notion.so/4-Git-Conflict-05ee99ce2753444c9df0a12d8b331fd0), [velog_버전_관리를_위한_통합](https://velog.io/@luda412/04.-버전-관리를-위한-통합과-배포)
+- [velog:버전_관리를_위한_통합](https://velog.io/@luda412/04.-버전-관리를-위한-통합과-배포)
 ----
 
-# 05_week JS 문법 및 엔진 작동 원리
-1. 함수 정의 및 사용 (Declaration, Expression, Hoisting, Arrow function)
-2. 함수 전달 형태 (값 반환 형태)
-3. ES6+ 문법 객체 (Destructure, Property Initializer Shorthand, Computed Named Property)
-4. ES6+ 문법 함수 (Spread Syntax, Rest Parameter, Default Parameter, Currying, Trailing Comma)
+## 05_week JS 문법 및 엔진 작동 원리
+- [실습 노션: Function, Object, Parameter](https://www.notion.so/5-Java-Script-23a0e2dc4b7a439981d8efc1bcdee1be)
+  - 함수 정의 및 사용 (Declaration, Expression, Hoisting, Arrow function)
+  - 함수 전달 형태 (값 반환 형태)
+  - ES6+ 문법 객체 (Destructure, Property Initializer Shorthand, Computed Named Property)
+  - ES6+ 문법 함수 (Spread Syntax, Rest Parameter, Default Parameter, Currying, Trailing Comma)
 
-[실습 노션](https://www.notion.so/5-Java-Script-23a0e2dc4b7a439981d8efc1bcdee1be), [velog_Java Script Engine & Function](https://velog.io/@luda412/Java-Script-기본-문법)
+- [velog: Java Script Engine & Function](https://velog.io/@luda412/Java-Script-기본-문법)
 ---
 
-# 05_week_Plus JS Callback 및 Promise
-1. Includes
-2. Spread Syntax
-3. 예외 처리
-4. For of / in
-5. Nullish Coalescing
-6. Callback (Callback Hell)
-7. Promise (사용시 주의 사항, Then & Catch, Async & Await)
+## 05_week_Plus JS Callback 및 Promise
+- [실습 노션: 예외 처리와 Promise](https://www.notion.so/5-JS-ES6-90377060793948b4afd21ce1c57c291b)
+  - Includes
+  - Spread Syntax
+  - 예외 처리
+  - For of / in
+  - Nullish Coalescing
+  - Callback (Callback Hell)
+  - Promise (사용시 주의 사항, Then & Catch, Async & Await)
 
-[실습 노션](https://www.notion.so/5-JS-ES6-90377060793948b4afd21ce1c57c291b), [velog_Callback & Promise](https://velog.io/@luda412/06.-CallBack-And-Promise)
+- [velog: Callback & Promise](https://velog.io/@luda412/06.-CallBack-And-Promise)
 ---
-
-
-
 
 
 
