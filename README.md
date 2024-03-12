@@ -85,5 +85,33 @@
 - [velog: Callback & Promise](https://velog.io/@luda412/06.-CallBack-And-Promise)
 ---
 
+## 11_week AWS VPC & Subnet 네트워크 구성
 
+- [AWS VPC 및 서브넷 설정 & Public EC2 생성, 외부 접근 허용](https://cliff-snowstorm-2ff.notion.site/11-AWS-VPC-Public-EC2-28ec8d3ef4dc414cbec75a2eecbdc792?pvs=4)
+  - VPC 생성
+  - Subnet 생성
+  - EC2 인스턴스 생성
+  - IGW 생성
+  - 라우팅 테이블 생성
+  - 연결 확인
+
+- [Inbound를 위한 Bastion 설정](https://cliff-snowstorm-2ff.notion.site/Private-EC2-Inbound-Bastion-4f19b8c7241743b9b89b858b1580e2d2?pvs=4)
+  - Bation Host 역할 EC2 생성
+  - 키페어 생성
+  - 인스턴스 생성
+  - Tunneling
+
+- [Outbound를 위한 NAT Instance 설정](https://cliff-snowstorm-2ff.notion.site/Private-EC2-Outbound-NAT-Instance-852fd0e7b73b4ce69a4dfd30265f175e?pvs=4)
+  - 인스턴스 생성
+  - 라우팅 테이블 설정
+  - Tunneling
+ 
+- [velog: AWS 네트워크 구성](https://velog.io/@luda412/AWS-네트워크-구성)
+  - VPC
+  - Subnet
+  - IGW & Route Table
+  - NAT Instance
+  - Bastion
+  - 트래픽 흐름 예시
+----
 
