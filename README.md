@@ -69,7 +69,13 @@
   - ES6+ 문법 함수 (Spread Syntax, Rest Parameter, Default Parameter, Currying, Trailing Comma)
 
 - [velog: Java Script Engine & Function](https://velog.io/@luda412/Java-Script-기본-문법)
-  - 
+  - Java Script 엔진 실행 과정
+    - Memory Heap
+    - Call Stack
+  - Creation & Complie Phase
+  - Declaration & Expression
+  - Arrow Funtion
+
 ---
 
 ## 05_week_Plus JS Callback 및 Promise
@@ -83,6 +89,10 @@
   - Promise (사용시 주의 사항, Then & Catch, Async & Await)
 
 - [velog: Callback & Promise](https://velog.io/@luda412/06.-CallBack-And-Promise)
+  - Callback & Callback Hell
+  - Promise
+    - then & catch
+
 ---
 
 ## 11_week AWS VPC & Subnet 네트워크 구성
@@ -113,5 +123,6 @@
   - NAT Instance
   - Bastion
   - 트래픽 흐름 예시
+
 ----
 
