@@ -140,7 +140,6 @@
 ## 13_week JAVA의 컴파일과 런타임 예외 처리
 
 - [Checked, Unchecked, Custom Exception 실습](https://cliff-snowstorm-2ff.notion.site/JAVA-Exception-65b4b2a7adf848bbbb92b7a45c5229f9)
-  
   - Checked Exception
     - 예외 처리를 한 경우 VS 하지 않은 경우   
   - Unchecked Exception
@@ -148,7 +147,6 @@
   - Custom Exception  
  
 - [velog: JAVA Exception](https://velog.io/@luda412/JAVA-Exception)
-  
   - Error와 Exception
   - Compile & Runtime
   - Checked Exception
